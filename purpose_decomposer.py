@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-goal_decomposer.py - stepwise, user-guided decomposition of a goal of an AI application
+purpose_decomposer.py - stepwise, user-guided decomposition of a goal of an AI application
 (divide and conquer), ending with the intended-usage goals and, optionally, their risk level
 and design-goal status.  Single file, local Ollama model through LangChain.
 

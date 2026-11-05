@@ -1,4 +1,4 @@
-# Goal Decomposer
+# Purpose Decomposer
 
 A small, interactive command-line tool that helps specify, decompose and assess the **purposes (goals)** of an AI application.
 It runs with a **local LLM** (through [Ollama](https://ollama.com/) and [LangChain](https://docs.langchain.com/oss/python/langchain/overview)), so no data leaves your machine.
@@ -51,7 +51,7 @@ Both files are optional. Without file A the design-goal status is suggested by t
 ## Usage
 
 ```bash
-python goal_decomposer.py "Detect tumours" \
+python purpose_decomposer.py "Detect tumours" \
   --ai-name "Radiology assistant" --ai-type "Computer vision" \
   --context "used in a public hospital" \
   --apps applications.md --risks risks.md --json out.json
