@@ -1,0 +1,44 @@
+# AI applications (file A)
+Format: `- Name | Type`, with the declared design goals nested below.
+
+- Radiology assistant | Computer vision
+  - Detect tumours in CT scans
+  - Prioritize urgent scans for radiologists
+- Recruiting assistant | Decision support
+  - Rank job candidates for recruiters
+  - Summarize candidate CVs
+- Support chatbot | Conversational agent
+  - Answer customer questions about invoices
+- Credit scoring assistant | Decision support
+  - Estimate the default risk of loan applicants for bank officers
+  - Explain the main factors behind each score
+- Proctoring system | Computer vision
+  - Verify the identity of students at the start of online exams
+  - Flag suspicious behaviour during exams for human review
+- Driver monitoring system | Computer vision
+  - Detect drowsiness of drivers in real time
+  - Alert drivers who look away from the road
+- Predictive maintenance system | Predictive analytics
+  - Predict failures of industrial machines from sensor data
+  - Schedule maintenance for maintenance engineers
+- Smart tutor | Recommender system
+  - Recommend exercises to students according to their level
+  - Generate feedback on student essays
+- Legal research assistant | Generative AI
+  - Summarize case law for lawyers
+  - Draft contract clauses from templates
+- Customer service voice agent | Speech recognition
+  - Transcribe customer calls
+  - Route calls to the right department
+- Fraud detection system | Anomaly detection
+  - Detect fraudulent card transactions in real time
+  - Rank suspicious transactions for fraud analysts
+- Crop monitoring system | Remote sensing
+  - Detect plant diseases from drone images
+  - Estimate crop yield for farmers
+- Content moderation assistant | Text classification
+  - Detect hate speech in user comments
+  - Prioritize reported posts for human moderators
+- Patient triage assistant | Decision support
+  - Assess the urgency of patients arriving at the emergency department
+  - Suggest the appropriate care unit to nurses
